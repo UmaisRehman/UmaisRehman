@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=UmaisRehman&color=blue)
 # 💫 About Me:
 Hi there! 👋 I'm Umais Rehman<br>💻 MERN Stack Developer | 🚀 Passionate about Web Development & IoT Projects<br><br>🔹 7th-semester Computer Engineering Student at Sir Syed University of Engineering and Technology<br>🔹 Skilled in React, Node.js, Express, MongoDB, JavaScript, Tailwind CSS, Firebase<br>🔹 Experience with Arduino, ESP32<br>🔹 Working on innovative projects like Tahaffuz App and Device(prototype esp32) (Security & Safety)<br><br>🔍 Currently Learning: Advanced React & React Native for Mobile Development<br>🎯 Future Goals: Building scalable full-stack applications & contributing to open-source<br><br>🚀 Let's connect and collaborate on exciting projects!<br><br>📫 Reach me at:<br><br>GitHub: @UmaisRehman<br>LinkedIn: https://www.linkedin.com/in/umais-rehman-767409265/<br>
 
