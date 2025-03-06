@@ -17,4 +17,5 @@ Hi there! 👋 I'm Umais Rehman<br>💻 MERN Stack Developer | 🚀 Passionate a
 ![](https://github-profile-trophy.vercel.app/?username=UmaisRehman&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
